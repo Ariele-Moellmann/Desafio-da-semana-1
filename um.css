@@ -1,0 +1,22 @@
+#imagem_fundo {
+    border: solid black;
+    background-color: white;
+    font-family: cursive;
+}
+body {
+    background-color: salmon;
+}
+
+img {
+    border: solid white 5px;
+    padding: 20px;
+}
+
+h2 {
+    background-color: white;
+}
+
+p {
+    margin-left: 5%;
+    margin-right: 5%;
+}
